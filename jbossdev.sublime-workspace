@@ -1,0 +1,545 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tabse",
+				"tabsetPanel"
+			],
+			[
+				"acti",
+				"activityname"
+			],
+			[
+				"js",
+				"jsdat"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 376.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"r",
+				"SublimeREPL: R"
+			],
+			[
+				"pack",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"R",
+				"Set Syntax: R"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 483.0
+	},
+	"console":
+	{
+		"height": 196.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/e/CloudDrive/dev/devlib/jboss/jbossdv"
+	],
+	"file_history":
+	[
+		"/Users/e/CloudDrive/dev/docks/a-devel/monetdb-r-docker/monetdb.sh",
+		"/Users/e/Library/Application Support/Sublime Text 3/Packages/Sublime-Neo4j/Default (OSX).sublime-keymap",
+		"/Users/e/Library/Application Support/Sublime Text 3/Packages/Sublime-Neo4j/Neo4j.sublime-settings",
+		"/Users/e/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/e/Dropbox/dev/DevLib/Jupyter/neo4j/aamcsvload01.cql",
+		"/Users/e/Dropbox/dev/DevLib/Jupyter/neo4j/queries02.cql",
+		"/Users/e/Dropbox/dev/docks/a-devel/dock-neo4j/lookup",
+		"/Users/e/Dropbox/dev/docks/a-devel/dock-neo4j/Dockerfile.template",
+		"/Users/e/Dropbox/dev/docks/a-devel/adds-on.mdown",
+		"/Users/e/Dropbox/dev/docks/a-devel/dock-neo4j/neo.sh",
+		"/Users/e/Dropbox/dev/docks/a-devel/mazerunner/spark-neo4j/app/docker-compose.yml",
+		"/Users/e/Dropbox/dev/DevLib/MyRLib/recommender/beer01.R",
+		"/Users/e/Dropbox/dev/docks/devel/shinypro/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/devel/shinypro/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/devel/sparkDocker.markdown",
+		"/Users/e/Dropbox/dev/docks/devel/RandomInstructions.md",
+		"/Users/e/Dropbox/dev/docks/devel/shinypro/README.md",
+		"/Users/e/Dropbox/dev/docks/devel/hadoop-docker/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/devel/rstudio/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/devel/proshiny/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/devel/shinypro/shiny-server.conf",
+		"/Users/e/Dropbox/dev/docks/devel/shinyserver/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/devel/shinyserver/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/devel/shinypro/shinypro.conf",
+		"/Users/e/Dropbox/dev/docks/devel/shinypro/shiny.conf",
+		"/Users/e/Dropbox/crsm/branches/201412/source/B2014-001/POC026/TnewCleveland/server.R",
+		"/Users/e/Dropbox/dev/docks/devel/rstudio/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/devel/shinyserver/README.md",
+		"/Users/e/Downloads/[kat.cr]fantastic.four.2015.hc.1080p.hdrip.x264.ac3.evo.torrent",
+		"/Users/e/Dropbox/dev/docks/devel/rstudio/userconfOld.sh",
+		"/Users/e/Dropbox/dev/docks/docker-r-rstudio/supervisordxyz.conf",
+		"/Users/e/Dropbox/dev/docks/docker-r-rstudio/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/docker-r-rstudio/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/docker-r-rstudio/userconf.sh",
+		"/Users/e/Dropbox/dev/docks/docker-centos-supervisor/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/4CastR2/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/sparkr-docker/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/Dockerfile - centos-orientdb",
+		"/Users/e/Dropbox/dev/docks/CENTOS-TRY/userconf.sh",
+		"/Users/e/Dropbox/dev/docks/Rstudio-server/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/hadoop.md",
+		"/usr/local/Cellar/hadoop/2.7.0/libexec/etc/hadoop/hdfs-site.xml",
+		"/Users/e/Dropbox/dev/docks/4CastR2/userconf.sh",
+		"/Users/e/Dropbox/dev/docks/centos-try/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/docker-centos-supervisor/container-files/etc/supervisord.conf",
+		"/Users/e/Dropbox/dev/docks/README.md",
+		"/Users/e/Dropbox/dev/docks/centos-try/userconf.sh",
+		"/Users/e/Dropbox/dev/docks/old/docker-spark/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/docker-openrefine/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/shiny-server-pro-Ubuntu/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/docker-openrefine-1/build/Dockerfile",
+		"/Users/e/Dropbox/dev/docks/sparkr-docker/files/sparkInstall.R",
+		"/Users/e/Dropbox/dev/docks/sparkr-docker/.gitignore",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/admin.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/ui.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetShortCalendar.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetCurrentDisplayPeriod.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetFTEHoursEdit.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetCurrentUser.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/.Rproj.user/2BA7DDE1/ctx/ctx-20061/environment",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/.Rproj.user/977CBF70/ctx/ctx-36962/environment",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fBuildSystem.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fBuildModel.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetModelName.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutModelName.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/Helpers.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fStartMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/server.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fStopMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/endless.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/global.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fCalcInMemoryModel.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutDemandEdit.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/joinSpread01.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/cputDt.csv",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/aputDt.csv",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/putDt.csv",
+		"/Users/e/Desktop/2 Business Areas/activity.csv",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/DTRace.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/numInputRace.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetActivityEdit.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutFTEEdit.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fCalcDemandHoursModel.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fBuildSqlBasedOnDisplayPeriod.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutFTEModel.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutDemandModel.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetFTEEdit.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutWorkEdit.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fPutUserMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/server1.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetDemandEdit.R",
+		"/Users/e/Dropbox/svn/POC017/TnewCleveland/serverOld.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fGetDataEdit.R",
+		"/Users/e/Dropbox/svn/POC017/TnewCleveland/server.R",
+		"/Users/e/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/e/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/e/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/e/Dropbox/dev/DevLib/TClevelandExperiment/func/fStartMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fLoadCalendarData.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/BuildforDemand.R",
+		"/Users/e/Downloads/fBuildSystem.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/serverWc.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fBuiltActiveData.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/tmp01.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/.Rhistory",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/func/fBuiltActiveData.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/func/fCalcForceIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/func/fPutUserMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fBuiltActiveData.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fCalcForceDepartmentFunctionIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fCalcForceDepartmentFunctionSubFunctionIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fCalcForceIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fLoadCalendarData.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fPutUserMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fResetUser.R",
+		"/Users/e/Dropbox/dev/DevLib/TCleveland/funcOld/fSplitFileMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/.Rproj.user/2BA7DDE1/sdb/s-CB026334/3B787AC7",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/.Rproj.user/C297D877/sdb/s-CE2FE0FD/7B31E470",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fCalcForceDepartmentFunctionIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fCalcForceDepartmentFunctionSubFunctionIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fCalcForceIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fResetUser.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/func/fSplitFileMonet.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/funcNewOld/fBuiltActiveData.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/funcNewOld/fCalcForceDepartmentFunctionIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/funcNewOld/fCalcForceDepartmentFunctionSubFunctionIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/funcNewOld/fCalcForceIndex.R",
+		"/Users/e/Dropbox/dev/DevLib/TnewCleveland/funcNewOld/fLoadCalendarData.R"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"// [source,cypher]",
+			"#",
+			"2.1.",
+			"conf",
+			"userconf",
+			"shiny",
+			"superv",
+			"-t",
+			"fastestmirror",
+			"subfunctionname)],",
+			"appTime",
+			"setky",
+			"*A",
+			"sum(fte)",
+			"sum(fte))",
+			"tuser",
+			"tUser",
+			"dbRemoveTable",
+			"switch",
+			"avFte",
+			"inTime",
+			"slT",
+			"appTime",
+			"x",
+			"E",
+			"exp",
+			"inTime",
+			"workT",
+			"fteHours",
+			"fteHour",
+			"fteRD",
+			"feRD",
+			"tSQLDemandTypeWhere",
+			"fGet",
+			"fGetCurrentUser()",
+			"##",
+			"## ",
+			"fGetCurrentUser()",
+			"fteRD",
+			"Misc.",
+			"resourceratio",
+			"resourceprofiletype",
+			"dt_",
+			"deferRender",
+			"dt_",
+			"demTb_selected",
+			"24",
+			"activityu",
+			"cache$model ",
+			"rmod()",
+			"demRD",
+			"rmod()",
+			":=rou",
+			"pages",
+			"rmod()",
+			"dbWriteTable",
+			"DemandType",
+			"inSubDep",
+			"epartment",
+			"fPut",
+			"dtr",
+			"ave",
+			"#if(fFileExist(",
+			"round",
+			"ftehours",
+			"Steria CSD",
+			"0.04",
+			"Demand",
+			"8L",
+			"8",
+			"0.04",
+			"worktime",
+			"workTimes",
+			"work",
+			"tSQLDisplayWorkTime",
+			"short",
+			"tMonthShort",
+			"dbList",
+			"dbWriteTable",
+			"distSubDep",
+			"distDep",
+			"LoadDt$V4 <- NULL",
+			"LoadDt$V5 <- NULL",
+			"subfunctionname",
+			"overwrite=TRUE",
+			"dbWriteTable",
+			"pivot",
+			"model_",
+			"modl_",
+			"model_",
+			"demRDt",
+			"%>",
+			"appTime",
+			"cache$rmod",
+			"setc",
+			"rtype",
+			"over",
+			"bOverTb",
+			"fGetF",
+			"fGet",
+			"fuid",
+			"inSelAct",
+			"RDt",
+			", leng",
+			"resources$",
+			"cache$res",
+			"ceprofiletype",
+			"variable.",
+			"fteRD",
+			"index",
+			"data/",
+			"data/x",
+			"cache$demWc",
+			"cache$dem",
+			"actWcDt",
+			"actD",
+			"d3pi",
+			"fteRD",
+			"actRD",
+			"%>%",
+			"%in%",
+			"page",
+			"pages",
+			"page",
+			"SDCols",
+			"melt",
+			"set(",
+			"500px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"//",
+			"2.",
+			"fte",
+			"fGetCurrentUser(session)",
+			"#",
+			"# ",
+			"fGetCurrentUser(session)",
+			"Misc",
+			"ratio",
+			"label",
+			"df_",
+			"rmod() ",
+			"cache$model ",
+			"rmod ",
+			"",
+			"LoadDt[, `:=`(V4=NULL, V5=NULL)]",
+			"overwrite=TRUE,csvdump=TRUE",
+			"rmod()",
+			"dt_$",
+			"datax/",
+			"cache$demSc",
+			"cache$demWc",
+			"540px",
+			"Dept",
+			"*Available",
+			"labels",
+			"demsPage",
+			"sPageOld",
+			"selPage",
+			"valMod$model",
+			" runMod()",
+			" \"",
+			" ",
+			"month.abb",
+			"months",
+			"tabPanel",
+			"tabItem",
+			"dt_",
+			"210px",
+			"200px",
+			"demWcDt",
+			" timeDiv",
+			"valPpu$lPage",
+			"valPpu$",
+			"tableSaveF",
+			"tableStateF",
+			"crimeLabelsPpu",
+			"pivottable",
+			",",
+			"   ",
+			"4.9"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jbossdev.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"shinyCleveland/server.R"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
